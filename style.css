@@ -1,0 +1,18 @@
+*{
+    font-size:24px;
+}
+
+h1{
+    font-size:40px;
+    background-color: lightblue;
+}
+
+img{
+    height: auto;
+    width: 500px;
+}
+
+.image{
+    height: auto;
+    width:700px;
+}
